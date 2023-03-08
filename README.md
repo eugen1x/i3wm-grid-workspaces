@@ -7,12 +7,15 @@ bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and
 to your i3/config.
   
 Example for move:
+    
     bindsym Control+Mod1+Right exec ~/grid-ws.sh right move
   
 Example for switch:
+    
     bindsym Control+Mod1+Right exec ~/grid-ws.sh left switch
   
 Example for move-and-switch
+    
     bindsym Control+Mod1+Right exec ~/grid-ws.sh up move-and-switch
   
 
