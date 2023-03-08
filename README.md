@@ -12,11 +12,11 @@ Example for move:
   
 Example for switch:
     
-    bindsym Control+Mod1+Right exec ~/grid-ws.sh left switch
+    bindsym Control+Mod1+Left exec ~/grid-ws.sh left switch
   
 Example for move-and-switch
     
-    bindsym Control+Mod1+Right exec ~/grid-ws.sh up move-and-switch
+    bindsym Control+Mod1+Up exec ~/grid-ws.sh up move-and-switch
   
 
 Left or right directions moves the current container or switches the view to 10 workspaces in the selected direction.
