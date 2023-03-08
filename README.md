@@ -20,6 +20,7 @@ Example for move-and-switch
   
 
 Left or right directions moves the current container or switches the view to 10 workspaces in the selected direction.
+
 Up or down directions moves the current container or switches the view to 1 workspaces in the selected direction.
 
 The minimum workspace is 10 (for convenience, the first digit is a column, and the second digit is a row).
