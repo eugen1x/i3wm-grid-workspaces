@@ -2,8 +2,8 @@
 Script that implements a pseudo 2d grid of workspaces
 to enable it add this string: 
 
-bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and-switch]
-
+    bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and-switch]
+    
 to your i3/config.
   
 Example for move:
