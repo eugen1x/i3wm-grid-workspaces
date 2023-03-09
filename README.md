@@ -5,9 +5,9 @@ To enable it add this string:
 
     bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and-switch]
     
-to your i3/config and make it executable:
+to your ~/.config/i3/config and make it executable:
 
-    chmod +x grid-ws.sh
+    chmod +x ~/.config/i3/grid-ws.sh
   
   
   
