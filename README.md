@@ -3,7 +3,7 @@ Script that implements a pseudo 2d grid(10x10) of workspaces.
 
 To enable it add this string: 
 
-    bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and-switch]
+    bindsym <keys> exec <path>/grid-ws.sh <direction> <mode>
     
 to your "~/.config/i3/config" and make file "grid-ws.sh" executable:
 
