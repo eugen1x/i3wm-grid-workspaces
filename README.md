@@ -1,5 +1,6 @@
 # iwm3-grid-workspaces
 Script that implements a pseudo 2d grid(10x10) of workspaces.
+
 To enable it add this string: 
 
     bindsym <keys> exec <path>/grid-ws.sh [up|down|left|right] [move|switch|move-and-switch]
