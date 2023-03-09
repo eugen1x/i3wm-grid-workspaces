@@ -7,7 +7,7 @@ To enable it add this string:
     
 to your ~/.config/i3/config and make it executable:
 
-    chmod +x ~/.config/i3/grid-ws.sh
+    chmod +x grid-ws.sh
   
   
   
